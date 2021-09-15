@@ -1,4 +1,4 @@
- solução do problema de lógica normal "Astrônomos Amadores"
+% Resolução do problema de lógica normal "Astrônomos Amadores"
 % Disponível em: https://rachacuca.com.br/logica/problemas/astronomos-amadores/
 % Autor: Samuel Moreira Ransolin
 
